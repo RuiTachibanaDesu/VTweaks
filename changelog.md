@@ -1,0 +1,3 @@
+- FAKE Gpu freq
+- tweaks for mediatek preketek
+- remove use less script
