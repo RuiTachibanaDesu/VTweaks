@@ -1,3 +1,3 @@
-- FAKE Gpu freq
-- tweaks for mediatek preketek
-- remove use less script
+- Remove Fake gpu 
+- intial update
+- fix fc for someone device 
