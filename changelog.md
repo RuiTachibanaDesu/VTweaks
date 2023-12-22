@@ -1,3 +1,4 @@
-- Remove Fake gpu 
-- intial update
-- fix fc for someone device 
+- Fix Update menu in magisk 
+- Fix install module in ksu
+- add tweaks in addon
+- sory for mediatek can't use  gpu changer 
