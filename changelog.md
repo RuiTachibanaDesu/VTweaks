@@ -1,3 +1,4 @@
 - add mediatek suport
 - fix video tik tok and ig
 - support ksu maybe
+- fix bootlop
