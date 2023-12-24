@@ -1,4 +1,3 @@
-- Fix Update menu in magisk 
-- Fix install module in ksu
-- add tweaks in addon
-- sory for mediatek can't use  gpu changer 
+- add mediatek suport
+- fix video tik tok and ig
+- support ksu maybe
