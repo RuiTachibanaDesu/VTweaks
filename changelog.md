@@ -1,2 +1,3 @@
 - add new tweaks for batry and addon tweaks
 - drop ksu suport
+- intial stable release 
