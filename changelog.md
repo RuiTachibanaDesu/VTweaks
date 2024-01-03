@@ -1,4 +1,2 @@
-- add mediatek suport
-- fix video tik tok and ig
-- support ksu maybe
-- fix bootlop
+- add new tweaks for batry and addon tweaks
+- drop ksu suport
