@@ -1,3 +1,11 @@
+- version = 7.0
+- add auto perf cpu clock
+- fix bootlop
+- add new tweaks for mediatek
+- change script for Snapdragon 
+- major minor bugs ? pm me to report
+
+- version = 6.0
 - add new tweaks for batry and addon tweaks
 - drop ksu suport
 - intial stable release 
