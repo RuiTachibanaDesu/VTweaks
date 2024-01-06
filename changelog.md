@@ -1,3 +1,9 @@
+- version = 8.0
+- add new code for cut out charger
+- add new tweaks for addon
+- add miui tweaks if your use miui rom 
+- fix minor bugs
+
 - version = 7.0
 - add auto perf cpu clock
 - fix bootlop
